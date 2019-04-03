@@ -35,11 +35,13 @@ attributes (array) - Additional terms to describe this alternative title, not en
 - tconst (string) - alphanumeric unique identifier of the title
 - directors (array of nconsts) - director(s) of the given title
 - writers (array of nconsts) – writer(s) of the given title
+
 **title.episode.tsv.gz – Contains the tv episode information. Fields include:**
 - tconst (string) - alphanumeric identifier of episode
 - parentTconst (string) - alphanumeric identifier of the parent TV Series
 - seasonNumber (integer) – season number the episode belongs to
 - episodeNumber (integer) – episode number of the tconst in the TV series
+
 **title.principals.tsv.gz – Contains the principal cast/crew for titles**
 - tconst (string) - alphanumeric unique identifier of the title
 - ordering (integer) – a number to uniquely identify rows for a given titleId
@@ -47,10 +49,12 @@ attributes (array) - Additional terms to describe this alternative title, not en
 - category (string) - the category of job that person was in
 - job (string) - the specific job title if applicable, else '\N'
 - characters (string) - the name of the character played if applicable, else '\N'
+
 **title.ratings.tsv.gz – Contains the IMDb rating and votes information for titles**
 - tconst (string) - alphanumeric unique identifier of the title
 - averageRating – weighted average of all the individual user ratings
 - numVotes - number of votes the title has received
+
 **name.basics.tsv.gz – Contains the following information for names:**
 - nconst (string) - alphanumeric unique identifier of the name/person
 - primaryName (string)– name by which the person is most often credited
@@ -60,4 +64,4 @@ attributes (array) - Additional terms to describe this alternative title, not en
 - knownForTitles (array of tconsts) – titles the person is known for
 
 ## <a name="Tools"></a> Tools
-
+HTML, CSS, Bootstrap, Javascript, Node.js, Angular, MySQL
