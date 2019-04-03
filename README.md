@@ -5,7 +5,7 @@
 
 ## <a name="IMDB_Database_Management_System"></a> IMDB Database Management System
 
-This project consist an 7 different IMDB datasets. Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set.
+This project consist of 7 different IMDB datasets. Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set.
 
 ## <a name="Data_Sets"></a> Data Sets
 Datasets Information: 
