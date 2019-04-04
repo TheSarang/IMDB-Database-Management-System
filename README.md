@@ -5,11 +5,12 @@
 
 ## <a name="IMDB_Database_Management_System"></a> IMDB Database Management System
 
-This project consist of 7 different IMDB datasets. Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set.
+This project consist of 7 different IMDB datasets. These dataset consist of information about cast, crew, movies, series with running time with the relevant information. Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set.
 
 ## <a name="Data_Sets"></a> Data Sets
 
 Dataset is taken from https://www.imdb.com/interfaces/.</br>
+
 Datasets Information: 
 
 **title.akas.tsv.gz - Contains the following information for titles:**
