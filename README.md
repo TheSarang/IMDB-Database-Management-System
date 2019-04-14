@@ -1,7 +1,7 @@
 ## Table of Contents:
 + [IMDB Database Management System](#IMDB_Database_Management_System) </br>
 + [Data Sets](#Data_Sets) </br>
-+ [Tools](#Tools) </br>
++ [Tools used](#Tools) </br>
 
 ## <a name="IMDB_Database_Management_System"></a> IMDB Database Management System
 
@@ -66,5 +66,5 @@ attributes (array) - Additional terms to describe this alternative title, not en
 - primaryProfession (array of strings)– the top-3 professions of the person
 - knownForTitles (array of tconsts) – titles for a person
 
-## <a name="Tools"></a> Tools
+## <a name="Tools"></a> Tools used
 HTML, CSS, Bootstrap, Javascript, Node.js, MySQL 
