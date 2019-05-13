@@ -7,7 +7,7 @@
 
 This project consist of 7 different IMDB datasets. These datasets have information about cast, crew, movies, series with running time with the relevant information. Each dataset is contained in a gzipped, tab-separated-values (TSV) formatted file in the UTF-8 character set.
 
-## <a name="Data_Sets"></a> Data Sets
+## <a name="Data_Sets"></a> Data Set
 
 Dataset is taken from https://www.imdb.com/interfaces/.</br>
 
