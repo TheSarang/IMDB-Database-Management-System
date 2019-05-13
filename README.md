@@ -1,6 +1,6 @@
 ## Table of Contents:
 + [IMDB Database Management System](#IMDB_Database_Management_System) </br>
-+ [Data Sets](#Data_Sets) </br>
++ [Data Set](#Data_Sets) </br>
 + [Tools used](#Tools) </br>
 
 ## <a name="IMDB_Database_Management_System"></a> IMDB Database Management System
