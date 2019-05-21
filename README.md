@@ -67,4 +67,4 @@ attributes (array) - Additional terms to describe this alternative title, not en
 - knownForTitles (array of tconsts) – titles for a person
 
 ## <a name="Tools"></a> Tools used
-HTML, CSS, Bootstrap, Javascript, Node.js, MySQL 
+HTML, CSS, Javascript, Bootstrap, Node.js, MySQL 
