@@ -60,10 +60,10 @@ Datasets Information:
 
 **name.basics.tsv.gz – Contains the following information for names:**
 - nconst (string) - alphanumeric unique identifier of the name/person
-- primaryName (string)– name by which the person is most often credited
+- primaryName (string) – name by which the person is most often credited
 - birthYear – in YYYY format
 - deathYear – in YYYY format if applicable, else '\N'
-- primaryProfession (array of strings)– the top-3 professions of the person
+- primaryProfession (array of strings) – the top-3 professions of the person
 - knownForTitles (array of tconsts) – titles for a person
 
 ## <a name="Tools"></a> Tools used
