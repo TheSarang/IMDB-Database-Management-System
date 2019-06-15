@@ -53,7 +53,7 @@ Datasets Information:
 - job (string) - the specific job title if applicable, else '\N'
 - characters (string) - the name of the character played if applicable, else '\N'
 
-**title.ratings.tsv.gz – Contains the IMDb rating and votes information for titles**
+**title.ratings.tsv.gz – Contains the IMDB rating and votes information for titles**
 - tconst (string) - alphanumeric unique identifier of the title
 - averageRating – weighted average of all the individual user ratings
 - numVotes - number of votes the title has received
