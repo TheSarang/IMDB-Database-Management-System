@@ -15,7 +15,7 @@ Datasets Information:
 
 **title.akas.tsv.gz - Contains the following information for titles:**
 - titleId (string) - a tconst, an alphanumeric unique identifier of the title
-- ordering (integer) – a number to uniquely identify rows for a given titleId
+- ordering (integer) – a number to uniquely identify rows for a given title Id
 - title (string) – the localized title
 - region (string) - the region for this version of the title
 - language (string) - the language of the title
