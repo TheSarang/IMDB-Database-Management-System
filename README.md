@@ -67,4 +67,4 @@ Datasets Information:
 - knownForTitles (array of tconsts) – titles for a person
 
 ## <a name="Tools"></a> Tools used
-HTML, CSS, Javascript, Bootstrap, Node.js, MySQL database
+HTML, CSS, Javascript, Bootstrap, Node.js, MySQL Database
