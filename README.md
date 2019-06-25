@@ -11,7 +11,7 @@ This project consist of 7 different IMDB datasets. These datasets have informati
 
 Dataset is taken from https://www.imdb.com/interfaces/.</br>
 
-Datasets Information:  
+Dataset Information:  
 
 **title.akas.tsv.gz - Contains the following information for titles:**
 - titleId (string) - a tconst, an alphanumeric unique identifier of the title
