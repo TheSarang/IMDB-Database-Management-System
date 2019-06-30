@@ -9,7 +9,7 @@ This project consist of 7 different IMDB datasets. These datasets have informati
 
 ## <a name="Data_Sets"></a> Data Set
 
-Dataset is taken from https://www.imdb.com/interfaces/.</br>
+Dataset is taken from https://www.imdb.com/interfaces/</br>
 
 Dataset Information:  
 
