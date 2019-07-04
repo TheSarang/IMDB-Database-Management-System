@@ -30,7 +30,7 @@ Dataset Information:
 - originalTitle (string) - original title, in the original language
 - isAdult (boolean) - 0: non-adult title; 1: adult title
 - startYear (YYYY) – represents the release year of a title. In the case of TV Series, it is the series start year
-- endYear (YYYY) – TV Series end year. ‘\N’ for all other title types
+- endYear (YYYY) – TV Series end year. "\N" for all other title types
 - runtimeMinutes – primary runtime of the title, in minutes
 - genres (string array) – includes up to three genres associated with the title
 
