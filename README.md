@@ -25,7 +25,7 @@ Dataset Information:
 
 **title.basics.tsv.gz - Contains the following information for titles:**
 - tconst (string) - alphanumeric unique identifier of the title
-- titleType (string) – the type/format of the title (e.g. movie, short, tvseries, tvepisode, video, etc)
+- titleType (string) – the type / format of the title (e.g. movie, short, tvseries, tvepisode, video, etc)
 - primaryTitle (string) – the more popular title / the title used by the filmmakers on promotional materials at the point of release
 - originalTitle (string) - original title, in the original language
 - isAdult (boolean) - 0: non-adult title; 1: adult title
