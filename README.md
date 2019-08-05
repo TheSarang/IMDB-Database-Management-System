@@ -59,7 +59,7 @@ Dataset Information:
 - numVotes - number of votes the title has received
 
 **name.basics.tsv.gz – Contains the following information for names:**
-- nconst (string) - alphanumeric unique identifier of the name / person
+- nconst (string) - alphanumeric unique identifier of the name of person
 - primaryName (string) – name by which the person is most often credited
 - birthYear – in YYYY format
 - deathYear – in YYYY format if applicable, else '\N'
