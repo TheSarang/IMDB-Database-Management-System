@@ -45,7 +45,7 @@ Dataset Information:
 - seasonNumber (integer) – season number the episode belongs to
 - episodeNumber (integer) – episode number of the tconst in the TV series
 
-**title.principals.tsv.gz – Contains the principal cast/crew for titles. Fields include:**
+**title.principals.tsv.gz – Contains the principal cast/crew for titles.:**
 - tconst (string) - alphanumeric unique identifier of the title
 - ordering (integer) – a number to uniquely identify rows for a given titleId
 - nconst (string) - alphanumeric unique identifier of the name/person
